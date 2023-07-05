@@ -1,5 +1,5 @@
 {
-  "name": "vite4-vue3-starter",
+  "name": "{{ name }}",
   "private": true,
   "version": "1.0.0",
   "keywords":[
